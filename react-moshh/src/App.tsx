@@ -1,5 +1,5 @@
 
-import Message from './Message'
+import ListGroup from './components/ListGroup'
 
 function App() {
   
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <h1>App</h1>
-      <Message />
+      <ListGroup/>
       
     </>
   )
